@@ -6,4 +6,4 @@
 - [麻雀部Bot](https://github.com/Geusen/TwitterBot_Mahjong) - M1麻雀部設立部同好会(非公式)のBotです
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username={Geusen})](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Geusen)](https://github.com/ryo-ma/github-profile-trophy)
