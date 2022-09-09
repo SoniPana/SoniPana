@@ -4,6 +4,8 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * 0"
   workflow_dispatch:
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
   build:
