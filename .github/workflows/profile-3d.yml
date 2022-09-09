@@ -4,8 +4,6 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * 0"
   workflow_dispatch:
-env:
-  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
   build:
@@ -16,7 +14,6 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
@@ -25,3 +22,5 @@ jobs:
           git add -A .
           git commit -m "Update images"
           git push origin HEAD:${GITHUB_REF}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
