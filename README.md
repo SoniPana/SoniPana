@@ -2,7 +2,9 @@
 ![](https://img.shields.io/github/followers/Geusen)
 ![](https://img.shields.io/twitter/follow/M1_Matu)
 
-### 👐 
+### 👐 About Me
+  #### My Favorite Languages
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### 🚀 My Projects
 - [時間割Bot](https://github.com/Geusen/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
@@ -13,6 +15,3 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geusen)](https://github.com/ryo-ma/github-profile-trophy)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
