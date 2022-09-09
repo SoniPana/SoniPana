@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/Geusen)
 ![](https://img.shields.io/twitter/follow/M1_Matu)
 
-### 👐 About Me
+### 🧐 About Me
  - SNS
    - Twitter: [@M1_Matu](https://twitter.com/M1_Matu)
  - #### My Favorite Programming Languages and Frontend Development
