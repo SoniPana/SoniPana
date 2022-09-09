@@ -17,6 +17,6 @@
 
 
 ### ⚡ Status
-![](https://github.com/Geusen/Geusen/blob/main/profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geusen)](https://github.com/ryo-ma/github-profile-trophy)
 
