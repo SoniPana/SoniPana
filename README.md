@@ -6,6 +6,7 @@
 ### 🧐 About Me
  - #### SNS
    - Twitter: [@M1_Matu](https://twitter.com/M1_Matu)
+   - Qiita: [Geusen](https://qiita.com/Geusen)
  - #### My Favorite Languages and Tools
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
