@@ -1,12 +1,12 @@
-![](https://komarev.com/ghpvc/?username=Geusen)
-![](https://img.shields.io/github/followers/Geusen)
+![](https://komarev.com/ghpvc/?username=SoniPana)
+![](https://img.shields.io/github/followers/SoniPana)
 ![](https://img.shields.io/twitter/follow/M1_Matu)
 
 
 ### 🧐 About Me
  - #### SNS
    - Twitter: [@M1_Matu](https://twitter.com/M1_Matu)
-   - Qiita: [Geusen](https://qiita.com/Geusen)
+   - Qiita: [SoniPana](https://qiita.com/SoniPana)
  - #### My Favorite Languages and Tools
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,11 +39,11 @@
 
 ### 🚀 My Projects
 - [時間割Bot](https://github.com/m1daily/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
-- [山庵工業高校HP](https://github.com/Geusen/3anko_fast) - 群馬の架空の高校、山庵工業高校のホームページです
-- [麻雀部Bot](https://github.com/Geusen/TwitterBot_Mahjong) - M1麻雀部設立部同好会(非公式)のBotです
+- [山庵工業高校HP](https://github.com/3an-kogyo/3anko_fast) - 群馬の架空の高校、山庵工業高校のホームページです
+- [麻雀部Bot](https://github.com/SoniPana/TwitterBot_Mahjong) - M1麻雀部設立部同好会(非公式)のBotです
 
 
 ### ⚡ Status
 ![](./profile-3d-contrib/profile-season-animate.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geusen)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana)](https://github.com/ryo-ma/github-profile-trophy)
 
