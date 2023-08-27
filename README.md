@@ -1,19 +1,25 @@
 # 🧐 About Me
 
-## SNS
+- ## SNS
+
+<div style="display: flex;">
 
    <a href="https://twitter.com/M1_Matu"><img src="https://skillicons.dev/icons?i=twitter&theme=light"></a>
 
-   - Qiita: [SoniPana](https://qiita.com/SoniPana)
+   <svg width="10"></svg>
 
-## My Favorite Languages and Tools
+   <a href="https://qiita.com/SoniPana"><img src="./images/qiita.svg" width="48"></a>
+
+</div>
+
+- ## My Favorite Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=python,flutter,cs,html,css,typescript,git,linux,selenium,github,vscode&theme=light">
 
 
 # 🚀 My Projects
 
-- [時間割Bot](https://github.com/m1daily/Schedule_Bot) - M1の時間割が更新されたらTwitter,LINE,Discordに送信
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/m1daily/Schedule_Bot)
 
 
 # ⚡ Status
