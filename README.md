@@ -12,7 +12,7 @@ I'm very interested in security technology.
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>-->
 
