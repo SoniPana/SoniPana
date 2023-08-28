@@ -3,9 +3,11 @@
 - ## SNS
 
 <p align="left">
+
    <a href="https://twitter.com/M1_Matu"><img src="https://skillicons.dev/icons?i=twitter&theme=light"></a>
-   <p> </p>
+
    <a href="https://qiita.com/SoniPana"><img src="./images/qiita.svg" width="48"></a>
+
 </p>
 
 - ## My Favorite Languages and Tools
@@ -13,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=python,flutter,cs,html,css,typescript,git,linux,selenium,github,vscode&theme=light">
 
 
-# 🚀 My Projects
+# 🚀 Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/m1daily/Schedule_Bot)
 
