@@ -2,6 +2,8 @@
 
 I'm 17 years old and a student programmer.
 
+<br>
+
 # ⚡ Status
 
 ![](https://img.shields.io/github/followers/SoniPana)
@@ -12,6 +14,8 @@ I'm 17 years old and a student programmer.
 
 <!--<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>-->
 
+<br>
+
 # 🔧 Technologies
 
  - ## My Favorite
@@ -21,9 +25,14 @@ I'm 17 years old and a student programmer.
  - ## Currently Learning
     <img src="https://skillicons.dev/icons?i=flutter,cs,js,typescript,react,vue,linux,blender,unity,neovim&theme=light">
 
+
+<br>
+
 # 🚀 Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot)](https://github.com/m1daily/Schedule_Bot)
+
+<br>
 
 # 📱 SNS
 
