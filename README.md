@@ -32,7 +32,7 @@ I'm very interested in security technology.
 
 # 🚀 Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot)  [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&no-frame=true)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot)  [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&no-frame=true)](https://gist.github.com/SoniPana/83abb6715abaa706534316047b38bd1d/)
 
 <br>
 
