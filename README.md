@@ -14,7 +14,7 @@ I'm 17 years old and a student programmer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>-->
 
 # 🚀 Main Projects
 
@@ -22,8 +22,12 @@ I'm 17 years old and a student programmer.
 
 # 📱 SNS
 
-<div style="position: relative; left: 1.8em;">
-  <a href="https://twitter.com/M1_Matu"><img src="https://img.shields.io/badge/Twitter-follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>
-  <a href="https://qiita.com/SoniPana"><img src="https://img.shields.io/badge/Qiita-follow-55C500?style=for-the-badge&logo=qiita&logoColor=55C500"></a>
-  <a href="https://zenn.dev/sonipana"><img src="https://img.shields.io/badge/Zenn-follow-3EA8FF?style=for-the-badge&logo=zenn&logoColor=3EA8FF"></a>
-</div>
+<p aligin="left">
+
+  <a href="https://twitter.com/M1_Matu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+
+  <a href="https://qiita.com/SoniPana"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white"></a>
+
+  <a href="https://zenn.dev/sonipana"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white"></a>
+
+</p>
