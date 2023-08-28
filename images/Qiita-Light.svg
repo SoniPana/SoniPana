@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   sodipodi:docname="Qiita-Light.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,300 H 300 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.035"
+     inkscape:cx="197.2973"
+     inkscape:cy="117.69042"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="qiita"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,400)">
+    <g
+       id="g10"
+       transform="matrix(0.64000002,0,0,0.64000002,0,107.99985)">
+      <rect
+         width="192"
+         height="192"
+         rx="45"
+         fill="#242938"
+         id="rect265"
+         x="-2.8421709e-14"
+         y="-300"
+         transform="matrix(1.5625,0,0,-1.5625,0,-168.74976)"
+         style="stroke-width:0.75;fill:#f4f2ed;fill-opacity:1" />
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)"
+         transform="matrix(0.87499999,0,0,0.87499999,18.750001,18.750414)">
+        <g
+           id="g18"
+           transform="translate(222.769,72.6416)">
+          <path
+             d="m 0,0 c -16.181,-17.258 -38.166,-22.936 -64.779,-25.627 -53.887,-5.449 -100.569,18.615 -106.222,78.744 -2.404,25.562 3.285,49.862 14.755,69.775 l -6.678,26.261 c -1.078,4.566 3.123,8.908 7.572,7.828 l 23.069,-5.6 c 13.718,11.264 30.312,18.625 48.616,20.475 15.657,1.583 30.837,-1.042 44.638,-7.03 l 21.684,13.117 c 4.081,2.469 9.248,-0.322 9.637,-5.204 l 1.251,-30.935 c 16.676,-17.607 28.031,-41.65 30.598,-68.953 1.45,-15.422 -0.15,-27.219 -4.238,-38.474 -1.914,-5.268 -2.49,-9.723 0.97,-14.132 3.342,-4.261 8.643,-12.531 14.554,-11.144 8.884,2.083 18.398,1.527 24.278,-2.145 11.181,20.995 17.526,44.956 17.526,70.402 0,82.843 -67.157,150 -150,150 -82.843,0 -150,-67.157 -150,-150 0,-82.842 67.157,-150 150,-150 42.48,0 80.831,17.663 108.123,46.04 -4.787,0.719 -9.684,2.579 -14.334,5.678 C 12.089,-14.97 4.164,-9.346 0,0"
+             style="fill:#55c500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(208.9209,182.6172)">
+          <path
+             d="M 0,0 14.009,1.717 13.811,4.241 -0.562,2.479 c -0.617,1.817 -1.313,3.592 -2.082,5.326 l 15.832,5.051 -0.497,3.169 -16.838,-5.833 c -11.295,23.681 -35.717,38.058 -63.366,35.262 -27.605,-2.791 -49.463,-22.668 -56.17,-48.105 l -16.47,2.495 -0.176,-3.237 16.217,-1.757 c -0.439,-1.871 -0.803,-2.98 -1.075,-4.904 l -14.148,-1.129 0.128,-2.531 13.79,1.101 c -0.242,-2.141 -0.388,-3.518 -0.415,-5.707 l -12.598,-5.151 0.618,-3.123 11.997,5.615 c 0.028,-1.673 0.1,-2.566 0.259,-4.259 3.335,-35.463 32.956,-42.476 68.347,-38.897 35.39,3.579 63.147,16.394 59.813,51.857 -0.16,1.702 -0.404,2.586 -0.691,4.242 l 12.996,-2.823 0.302,2.862 -13.63,2.589 C 1.152,-3.3 0.625,-2.021 0,0"
+             style="fill:#55c500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

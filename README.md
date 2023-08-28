@@ -3,11 +3,8 @@
 - ## SNS
 
 <p align="left">
-
    <a href="https://twitter.com/M1_Matu"><img src="https://skillicons.dev/icons?i=twitter&theme=light"></a>
-
-   <a href="https://qiita.com/SoniPana"><img src="./images/qiita.svg" width="48"></a>
-
+   <a href="https://qiita.com/SoniPana"><img src="./images/Qiita-Light.svg" width="48"></a>
 </p>
 
 - ## My Favorite Languages and Tools
