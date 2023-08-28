@@ -10,11 +10,11 @@ I'm very interested in security technology.
 
 ![](https://img.shields.io/github/followers/SoniPana)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoniPana&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>-->
+<!--<a href="https://app.daily.dev/SoniPana"><img src="https://api.daily.dev/devcards/72d7f4b1fd7e4fe2b291d29236ec208c.png?r=4rj" width="400" alt="SoniPana's Dev Card"/></a>  &theme=onedark  -->
 
 <br>
 
@@ -32,9 +32,7 @@ I'm very interested in security technology.
 
 # 🚀 Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&theme=onedark)](https://github.com/m1daily/Schedule_Bot)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&theme=onedark)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot)  [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&no-frame=true)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 <br>
 
