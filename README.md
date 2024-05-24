@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-I'm 17 years old and a japanese student programmer.  I have practiced coding since March 2022.
+I'm 18 years old and a japanese student programmer.  I have practiced coding since March 2022.
 
 I'm very interested in security technology.
 
@@ -32,7 +32,7 @@ I'm very interested in security technology.
 
 # 🚀 Main Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3an-kogyo&repo=3anko_fast&no-frame=true)](https://github.com/3an-kogyo/3anko_fast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot)
 
 <!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&no-frame=true)](https://gist.github.com/SoniPana/83abb6715abaa706534316047b38bd1d/) -->
 
@@ -41,7 +41,7 @@ I'm very interested in security technology.
 # 📱 SNS
 
 <p aligin="left">
-  <a href="https://twitter.com/M1_Matu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/sonipana1007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="https://qiita.com/SoniPana"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white"></a>
   <a href="https://zenn.dev/sonipana"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white"></a>
 </p>
