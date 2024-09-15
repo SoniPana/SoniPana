@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-I'm 18 years old and a japanese student programmer.  I have practiced coding since March 2022.
+I'm 19 years old and a japanese student programmer.  I have practiced coding since March 2022.
 
 I'm very interested in security technology.
 
@@ -22,10 +22,10 @@ I'm very interested in security technology.
 
  - ## My Favorite
 
-    <img src="https://skillicons.dev/icons?i=python,cs,html,css,selenium,raspberrypi,atom,vscode,visualstudio,github&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,cs,go,astro,tailwind,vscode,visualstudio,linux&theme=dark">
 
  - ## Currently Learning
-    <img src="https://skillicons.dev/icons?i=flutter,cs,js,typescript,react,vue,linux,blender,unity,neovim&theme=dark">
+    <img src="https://skillicons.dev/icons?i=flutter,cs,go,typescript,rust,react,blender,neovim&theme=dark">
 
 
 <br>
@@ -33,6 +33,8 @@ I'm very interested in security technology.
 # 🚀 Main Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=Schedule_Bot&no-frame=true)](https://github.com/m1daily/Schedule_Bot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m1daily&repo=mito1daily&no-frame=true)](https://github.com/m1daily/mito1daily)
 
 <!-- [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=83abb6715abaa706534316047b38bd1d&no-frame=true)](https://gist.github.com/SoniPana/83abb6715abaa706534316047b38bd1d/) -->
 
