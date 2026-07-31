@@ -1,11 +1,3 @@
-# 🧐 About Me
-
-I'm 19 years old and a japanese student programmer.  I have practiced coding since March 2022.
-
-I'm very interested in security technology.
-
-<br>
-
 # ⚡ Status
 
 ![](https://img.shields.io/github/followers/SoniPana)
